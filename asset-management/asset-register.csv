@@ -1,0 +1,11 @@
+﻿Asset ID,Asset Type,Make / Model,Assigned To,Department,Location,Status,Purchase Date,Warranty Status,Notes
+AST-0001,Laptop,Dell Latitude 5440,Aarav Shah,Finance,Nagpur - Office,In Use,2025-02-10,Under Warranty,Fictional training record
+AST-0002,Laptop,HP ProBook 440,Meera Joshi,HR,Nagpur - Office,In Use,2024-08-15,Check Warranty,Fictional training record
+AST-0003,Desktop,Lenovo ThinkCentre M70,Kabir Patil,Sales,Nagpur - Office,In Use,2024-11-20,Under Warranty,Fictional training record
+AST-0004,Laptop,Dell Latitude 5430,Ananya Rao,Operations,Remote,In Use,2024-04-12,Check Warranty,Fictional training record
+AST-0005,Printer,HP LaserJet Pro M404,Shared - Floor 1,Operations,Nagpur - Office,In Use,2023-06-01,Out of Warranty,Shared fictional device
+AST-0006,Monitor,Dell P2422H,Diya More,HR,Nagpur - Office,In Use,2025-01-08,Under Warranty,Fictional training record
+AST-0007,Keyboard,Logitech K120,Neil Thomas,Sales,Nagpur - Office,In Use,2024-03-18,Not Recorded,Fictional training record
+AST-0008,Laptop,Lenovo ThinkPad E14,Atharv Bhosale,Finance,Nagpur - Office,In Use,2025-05-22,Under Warranty,Fictional training record
+AST-0009,Docking Station,Dell WD19S,Kavya Jadhav,Operations,Nagpur - Office,In Stock,2025-03-04,Under Warranty,Fictional training record
+AST-0010,Laptop,HP EliteBook 840,IT Training Pool,IT,Nagpur - Office,In Stock,2025-07-11,Under Warranty,Fictional training record
